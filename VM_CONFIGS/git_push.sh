@@ -7,5 +7,5 @@ echo "$date"
 git config --global user.email "sriramcspmi@gmail.com"
 git config --global user.name "Sriram Ramanujam"
 git add *
-git commit -m "2018_07_23_05"
+git commit -m "$date"
 git push
