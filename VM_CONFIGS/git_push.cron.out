@@ -203,3 +203,9 @@ To https://github.com/sri17ram/VM_DATA_BACKUP.git
 2018_08_05_19_00_08_1533475808
 ***************************************************************************
 2018_08_05_20_00_01_1533479401
+[master 08facdf] 2018_08_05_20_00_01_1533479401
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'https://github.com/sri17ram/VM_DATA_BACKUP.git/': gnutls_handshake() failed: Error in the pull function.
+2018_08_05_20_00_41_1533479441
+***************************************************************************
+2018_08_05_22_00_01_1533486601
