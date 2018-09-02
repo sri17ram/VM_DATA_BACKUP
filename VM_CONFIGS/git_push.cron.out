@@ -255,3 +255,41 @@ To https://github.com/sri17ram/VM_DATA_BACKUP.git
 2018_08_12_15_55_52_1534069552
 ***************************************************************************
 2018_08_12_16_00_01_1534069801
+2018_09_02_10_00_02_1535862602
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   └── sample.txt
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── QUOTES
+│   └── quotes.txt
+└── VM_CONFIGS
+    ├── git_push.cron.out
+    └── git_push.sh
+
+7 directories, 10 files
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitconfig
+	.netrc
+
+no changes added to commit (use "git add" and/or "git commit -a")
