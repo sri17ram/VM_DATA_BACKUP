@@ -6,6 +6,8 @@ echo "$date"
 
 cd /home/tools/VM_DATA_BACKUP
 
+tree
+
 git config --global user.email "sriramcspmi@gmail.com"
 
 git config --global user.name "Sriram Ramanujam"
