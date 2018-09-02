@@ -12,6 +12,8 @@ git config --global user.email "sriramcspmi@gmail.com"
 
 git config --global user.name "Sriram Ramanujam"
 
+git status
+
 git add *
 
 git commit -m "$date"
