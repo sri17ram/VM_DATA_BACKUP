@@ -14,6 +14,8 @@ git add *
 
 git commit -m "$date"
 
+git diff --stat --cached origin/master
+
 git push
 
 date=`date +%Y_%m_%d_%H_%M_%S_%s`
