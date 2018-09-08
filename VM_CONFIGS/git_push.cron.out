@@ -387,3 +387,14 @@ Untracked files:
 	ENGLISH/.sample.txt.swp
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 3899a4b] 2018_09_08_18_00_01_1536409801
+ 3 files changed, 69 insertions(+)
+ create mode 100644 ENGLISH/.sample.txt.swp
+ ENGLISH/.sample.txt.swp      | Bin 0 -> 1024 bytes
+ ENGLISH/sample.txt           |  21 +++++++++++++++++++
+ VM_CONFIGS/git_push.cron.out |  48 +++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 69 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   a4e0444..3899a4b  master -> master
+2018_09_08_18_00_11_1536409811
+***************************************************************************
