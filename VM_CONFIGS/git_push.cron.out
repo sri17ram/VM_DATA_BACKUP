@@ -1019,3 +1019,51 @@ Untracked files:
 	.netrc
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 803f162] 2018_09_09_15_00_01_1536485401
+ 1 file changed, 48 insertions(+)
+ VM_CONFIGS/git_push.cron.out | 48 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 48 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   5bdba31..803f162  master -> master
+2018_09_09_15_00_09_1536485409
+***************************************************************************
+2018_09_09_16_00_01_1536489001
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── QUOTES
+│   └── quotes.txt
+└── VM_CONFIGS
+    ├── git_push.cron.out
+    └── git_push.sh
+
+7 directories, 12 files
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitconfig
+	.netrc
+
+no changes added to commit (use "git add" and/or "git commit -a")
