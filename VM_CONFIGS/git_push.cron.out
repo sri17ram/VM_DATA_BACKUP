@@ -1595,3 +1595,51 @@ Untracked files:
 	.netrc
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 511c6cb] 2018_10_13_12_00_01_1539412201
+ 1 file changed, 48 insertions(+)
+ VM_CONFIGS/git_push.cron.out | 48 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 48 insertions(+)
+fatal: unable to access 'https://github.com/sri17ram/VM_DATA_BACKUP.git/': Could not resolve host: github.com
+2018_10_13_12_00_14_1539412214
+***************************************************************************
+2018_10_13_13_00_01_1539415801
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── QUOTES
+│   └── quotes.txt
+└── VM_CONFIGS
+    ├── git_push.cron.out
+    └── git_push.sh
+
+7 directories, 12 files
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitconfig
+	.netrc
+
+no changes added to commit (use "git add" and/or "git commit -a")
