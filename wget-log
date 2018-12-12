@@ -1,0 +1,6 @@
+--2018-12-03 22:14:35--  http://finance.google.com/finance/info?client=ig
+Resolving finance.google.com (finance.google.com)... 172.217.26.206, 2404:6800:4007:800::200e
+Connecting to finance.google.com (finance.google.com)|172.217.26.206|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2018-12-03 22:14:36 ERROR 403: Forbidden.
+

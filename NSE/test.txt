@@ -1,0 +1,8 @@
+  329  curl "https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=SUNTV&series=EQ&fromDate=undefined&toDate=undefined&datePeriod=2weeks"
+  330  sudo apt install curl
+  331  curl "https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=SUNTV&series=EQ&fromDate=undefined&toDate=undefined&datePeriod=2weeks"
+  332  curl "https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=SUNTV&series=EQ&fromDate=undefined&toDate=undefined&datePeriod=3months"
+  333  curl "https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=SUNTV&series=EQ&fromDate=undefined&toDate=undefined&datePeriod=3months" | sed 's/        //g'
+  334  curl "https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=SUNTV&series=EQ&fromDate=undefined&toDate=undefined&datePeriod=3months" | sed 's/        //g' | more 
+  335  curl "https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=SUNTV&series=EQ&fromDate=undefined&toDate=undefined&datePeriod=3months" | sed 's/        //g' | grep "csvContentDiv"
+  340  history | grep curl > test.txt
