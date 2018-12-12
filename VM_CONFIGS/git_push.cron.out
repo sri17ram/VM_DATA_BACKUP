@@ -2272,3 +2272,59 @@ Untracked files:
 	wget-log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 0cc1028] 2018_12_12_16_00_01_1544610601
+ 3 files changed, 67 insertions(+)
+ create mode 100644 NSE/test.txt
+ create mode 100644 wget-log
+ NSE/test.txt                 |  8 +++++++
+ VM_CONFIGS/git_push.cron.out | 53 ++++++++++++++++++++++++++++++++++++++++++++
+ wget-log                     |  6 +++++
+ 3 files changed, 67 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   805ba4e..0cc1028  master -> master
+2018_12_12_16_00_16_1544610616
+***************************************************************************
+2018_12_12_17_00_03_1544614203
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+8 directories, 14 files
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.netrc
+
+no changes added to commit (use "git add" and/or "git commit -a")
