@@ -2328,3 +2328,56 @@ Untracked files:
 	.netrc
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master df14a01] 2018_12_12_17_00_03_1544614203
+ 1 file changed, 56 insertions(+)
+ VM_CONFIGS/git_push.cron.out | 56 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 56 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   0cc1028..df14a01  master -> master
+2018_12_12_17_00_16_1544614216
+***************************************************************************
+2018_12_12_18_00_01_1544617801
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+8 directories, 14 files
+warning: could not open directory '.jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.netrc
+
+no changes added to commit (use "git add" and/or "git commit -a")
