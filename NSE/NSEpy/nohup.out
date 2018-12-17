@@ -1,0 +1,32 @@
+[I 20:25:32.609 NotebookApp] Serving notebooks from local directory: /home/tools/VM_DATA_BACKUP/NSE/NSEpy
+[I 20:25:32.609 NotebookApp] The Jupyter Notebook is running at:
+[I 20:25:32.609 NotebookApp] http://(Aprendizaje or 127.0.0.1):8888/?token=745383721e52895b8be47655fcef0a24ca84179b13525be1
+[I 20:25:32.610 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:25:32.610 NotebookApp] No web browser found: could not locate runnable browser.
+[C 20:25:32.611 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://(Aprendizaje or 127.0.0.1):8888/?token=745383721e52895b8be47655fcef0a24ca84179b13525be1
+[I 20:25:50.583 NotebookApp] Creating new notebook in 
+[I 20:25:52.411 NotebookApp] Kernel started: d43e5d3d-19b1-472f-b17d-598a202e8f8e
+[I 20:25:53.590 NotebookApp] Adapting to protocol v5.1 for kernel d43e5d3d-19b1-472f-b17d-598a202e8f8e
+[I 20:27:52.374 NotebookApp] Saving file at /Untitled1.ipynb
+[I 20:29:52.369 NotebookApp] Saving file at /Untitled1.ipynb
+[I 20:31:52.397 NotebookApp] Saving file at /Untitled1.ipynb
+[I 20:33:52.385 NotebookApp] Saving file at /Untitled1.ipynb
+[I 20:35:52.354 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:08:09.925 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:10:10.006 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:11:14.738 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:14:09.872 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:16:10.094 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:18:09.987 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:22:09.978 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:24:10.355 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:26:09.967 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:28:09.963 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:30:09.984 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:32:09.985 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:34:09.994 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb
+[I 22:36:10.382 NotebookApp] Saving file at /NSE_DATA_SCIENCE.ipynb

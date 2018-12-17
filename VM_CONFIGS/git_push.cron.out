@@ -2879,3 +2879,73 @@ Untracked files:
 	.python_history
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 0b0d999] 2018_12_17_20_00_01_1545057001
+ 3 files changed, 68 insertions(+), 1 deletion(-)
+ delete mode 100644 NSE/NSEpy/.dataframes.py.swp
+ NSE/NSEpy/.dataframes.py.swp | Bin 12288 -> 0 bytes
+ NSE/NSEpy/dataframes.py      |   5 +++-
+ VM_CONFIGS/git_push.cron.out |  64 +++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 68 insertions(+), 1 deletion(-)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   482892c..0b0d999  master -> master
+2018_12_17_20_00_05_1545057005
+***************************************************************************
+2018_12_17_23_00_01_1545067801
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   ├── NSEpy
+│   │   ├── dataframes.py
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+9 directories, 19 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+	NSE/NSEpy/.ipynb_checkpoints/NSE_DATA_SCIENCE-checkpoint.ipynb
+	NSE/NSEpy/NSE_DATA_SCIENCE.ipynb
+	NSE/NSEpy/nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
