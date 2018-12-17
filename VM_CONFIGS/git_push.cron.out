@@ -2815,3 +2815,67 @@ Untracked files:
 	NSE/NSEpy/.dataframes.py.swp
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 482892c] 2018_12_17_19_00_01_1545053401
+ 2 files changed, 63 insertions(+)
+ create mode 100644 NSE/NSEpy/.dataframes.py.swp
+ NSE/NSEpy/.dataframes.py.swp | Bin 0 -> 12288 bytes
+ VM_CONFIGS/git_push.cron.out |  63 +++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 63 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   4f2cd3d..482892c  master -> master
+2018_12_17_19_00_06_1545053406
+***************************************************************************
+2018_12_17_20_00_01_1545057001
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   ├── NSEpy
+│   │   ├── dataframes.py
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+9 directories, 17 files
+warning: could not open directory '.jupyter/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	deleted:    NSE/NSEpy/.dataframes.py.swp
+	modified:   NSE/NSEpy/dataframes.py
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
