@@ -2949,3 +2949,75 @@ Untracked files:
 	NSE/NSEpy/nohup.out
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master e1b9fcc] 2018_12_17_23_00_01_1545067801
+ 4 files changed, 442 insertions(+)
+ create mode 100644 NSE/NSEpy/.ipynb_checkpoints/NSE_DATA_SCIENCE-checkpoint.ipynb
+ create mode 100644 NSE/NSEpy/NSE_DATA_SCIENCE.ipynb
+ create mode 100644 NSE/NSEpy/nohup.out
+ .../NSE_DATA_SCIENCE-checkpoint.ipynb              | 217 +++++++++++++++++++++
+ NSE/NSEpy/NSE_DATA_SCIENCE.ipynb                   | 123 ++++++++++++
+ NSE/NSEpy/nohup.out                                |  32 +++
+ VM_CONFIGS/git_push.cron.out                       |  70 +++++++
+ 4 files changed, 442 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   0b0d999..e1b9fcc  master -> master
+2018_12_17_23_00_09_1545067809
+***************************************************************************
+2018_12_18_00_00_01_1545071401
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   ├── NSEpy
+│   │   ├── dataframes.py
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+9 directories, 19 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   NSE/NSEpy/NSE_DATA_SCIENCE.ipynb
+	modified:   NSE/NSEpy/nohup.out
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
