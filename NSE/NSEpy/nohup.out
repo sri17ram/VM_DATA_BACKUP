@@ -60,3 +60,27 @@ WARNING:root:kernel ae361666-d898-4dcb-a232-19a97d9a04f8 restarted
 [I 01:54:10.116 NotebookApp] Saving file at /All-Time  Low.ipynb
 [I 01:56:10.289 NotebookApp] Saving file at /All-Time  Low.ipynb
 [I 01:58:10.112 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:00:10.126 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:00:58.195 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ae361666-d898-4dcb-a232-19a97d9a04f8 restarted
+[I 02:01:15.280 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:02:10.121 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:04:10.117 NotebookApp] Saving file at /All-Time  Low.ipynb
+[W 02:18:34.861 NotebookApp] Replacing stale connection: ae361666-d898-4dcb-a232-19a97d9a04f8:648128b0fbf64ca88904bb86e6c01e8e
+[I 02:18:39.864 NotebookApp] Starting buffering for ae361666-d898-4dcb-a232-19a97d9a04f8:648128b0fbf64ca88904bb86e6c01e8e
+[I 02:18:40.136 NotebookApp] Adapting to protocol v5.1 for kernel ae361666-d898-4dcb-a232-19a97d9a04f8
+[I 02:18:40.137 NotebookApp] Restoring connection for ae361666-d898-4dcb-a232-19a97d9a04f8:648128b0fbf64ca88904bb86e6c01e8e
+[W 02:18:40.157 NotebookApp] Replacing stale connection: d43e5d3d-19b1-472f-b17d-598a202e8f8e:8f659bddda10417a88510b5a1c4408cb
+[I 02:18:45.158 NotebookApp] Starting buffering for d43e5d3d-19b1-472f-b17d-598a202e8f8e:8f659bddda10417a88510b5a1c4408cb
+[I 02:18:45.159 NotebookApp] Adapting to protocol v5.1 for kernel d43e5d3d-19b1-472f-b17d-598a202e8f8e
+[I 02:18:45.159 NotebookApp] Restoring connection for d43e5d3d-19b1-472f-b17d-598a202e8f8e:8f659bddda10417a88510b5a1c4408cb
+[I 02:22:56.871 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:24:56.878 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:25:59.928 NotebookApp] Kernel interrupted: ae361666-d898-4dcb-a232-19a97d9a04f8
+[I 02:26:56.870 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:27:25.217 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ae361666-d898-4dcb-a232-19a97d9a04f8 restarted
+[I 02:28:56.873 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:30:56.870 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:32:56.878 NotebookApp] Saving file at /All-Time  Low.ipynb
+[I 02:34:44.449 NotebookApp] Saving file at /All-Time  Low.ipynb

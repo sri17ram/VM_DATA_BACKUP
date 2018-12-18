@@ -3162,3 +3162,80 @@ Untracked files:
 	NSE/NSEpy/All-Time  Low.ipynb
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 25aca98] 2018_12_18_02_00_01_1545078601
+ 6 files changed, 498 insertions(+), 343 deletions(-)
+ create mode 100644 NSE/NSEpy/.ipynb_checkpoints/All-Time  Low-checkpoint.ipynb
+ rewrite NSE/NSEpy/.ipynb_checkpoints/NSE_DATA_SCIENCE-checkpoint.ipynb (92%)
+ create mode 100644 NSE/NSEpy/All-Time  Low.ipynb
+ rewrite NSE/NSEpy/NSE_DATA_SCIENCE.ipynb (93%)
+ .../All-Time  Low-checkpoint.ipynb                 |   6 +
+ .../NSE_DATA_SCIENCE-checkpoint.ipynb              | 160 +++++----------------
+ NSE/NSEpy/All-Time  Low.ipynb                      |  64 +++++++++
+ NSE/NSEpy/NSE_DATA_SCIENCE.ipynb                   | 105 ++++++++++++--
+ NSE/NSEpy/nohup.out                                |  21 +++
+ VM_CONFIGS/git_push.cron.out                       |  73 ++++++++++
+ 6 files changed, 292 insertions(+), 137 deletions(-)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   b46a518..25aca98  master -> master
+2018_12_18_02_00_12_1545078612
+***************************************************************************
+2018_12_18_10_00_59_1545107459
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+9 directories, 20 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   NSE/NSEpy/.ipynb_checkpoints/All-Time  Low-checkpoint.ipynb
+	modified:   NSE/NSEpy/All-Time  Low.ipynb
+	modified:   NSE/NSEpy/nohup.out
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
