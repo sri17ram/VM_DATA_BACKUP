@@ -4046,3 +4046,73 @@ Untracked files:
 	.python_history
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 662fd0f] 2018_12_19_22_00_01_1545237001
+ 3 files changed, 332 insertions(+), 133 deletions(-)
+ rewrite NSE/NSEpy/.ipynb_checkpoints/All-Time  Low-checkpoint.ipynb (83%)
+ .../All-Time  Low-checkpoint.ipynb                 |  92 ++++++++++++++-----
+ NSE/NSEpy/All-Time  Low.ipynb                      | 100 +++++++++++++++++++--
+ VM_CONFIGS/git_push.cron.out                       |  67 ++++++++++++++
+ 3 files changed, 229 insertions(+), 30 deletions(-)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   32d1dfe..662fd0f  master -> master
+2018_12_19_22_00_20_1545237020
+***************************************************************************
+2018_12_19_23_00_01_1545240601
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+9 directories, 20 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   NSE/NSEpy/.ipynb_checkpoints/All-Time  Low-checkpoint.ipynb
+	modified:   NSE/NSEpy/All-Time  Low.ipynb
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
