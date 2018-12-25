@@ -1,0 +1,591 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> <head> <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title> Diligent Media Corp Ltd. DNAMEDIA Forecast Prediction,Technical Analysis. Diligent Media Corp Ltd. DNAMEDIA share trades in NSE Stock Exchange  </title>
+<meta name="description" content="Diligent Media Corp Ltd. DNAMEDIA WideScreen charts, forecast prediction, technical analysis by indicators ADX,MACD,RSI,CCI NSE stock exchange" />
+<meta name="keywords" content="Diligent,Media,Corp,Ltd,DNAMEDIA,Forecast,Prediction,Technical,Analysis,Diligent,Media,Corp,Ltd,DNAMEDIA,Share,Trades,In,NSE,Stock,Exchange" />
+
+
+<style type="text/css">
+body{ margin: 0px; padding: 0px; font-size: 14px; font-family: tahoma, arial, Lucida Grande, Verdana; background: rgba( 255, 255, 255, 1 ); color: rgba( 5, 5, 7, 1 ); }
+
+h1{ font-size: 16px; font-weight: normal; }
+h2, h3{ font-size: 14px; font-weight: normal; }
+h4{ font-size: 12px; font-weight: normal; }
+a{ 
+color: rgba( 25, 12, 25, 1 ); 
+padding: 2px; 
+margin-left: 2px; margin-right: 2px; text-decoration: none; border-bottom: rgba( 50, 25, 50, 1 ) 0px dashed; 
+font-weight: bold;
+}
+a:hover{ padding: 2px; background: rgba( 20, 20, 75, 1 ); color: rgba( 250, 225, 250, 1 ); margin-left: 2px; margin-right: 2px; text-decoration: none; border: #ffffff 1px solid;  }
+
+input{ background: rgba( 130, 130, 190, 1 ); color: #000000; border: rgba( 10, 10, 10, 1 ) 1px dotted; }
+select{ background: rgba( 130, 130, 190, 1 ); color: #000000; border: rgba( 10, 10, 10, 1 ) 1px dotted; }
+
+#page{ background: rgba( 200, 200, 255, 1 ); margin: 0px 0px 0px 0px; padding: 0px; border: rgba( 5, 5, 15, 1 ) 0px solid; text-align: left;  }
+#top{  clear: both; background:  rgba( 200, 200, 255, 1 ); padding: 0px; margin: 30px 15px 0px 15px; border-bottom: rgba( 255, 255, 255, 1 ) 5px solid; }
+
+
+.div1{ background: rgba( 211, 211, 255, 1 ); width: 850px; float: left; margin: 10px; padding: 10px; text-align: left; border: #FFFFFF 1px solid; }
+.div1 a{ padding: 2px; margin: 2px 5px 2px 5px; }
+.div1 h4, h3, h2, h1{ color: #FFFFFF; background: rgba( 25, 100, 25, 1 ); text-align: center; font-weight: normal; font-size: 16px; padding: 2px; margin: 10px 5px 3px 5px; }
+.div1 h4 a{ color: #FFFFFF; }
+.div1 h4 a:hover{ color: #FFFFFF; }
+.div1 h3 a{ color: #FFFFFF; }
+.div1 h3 a:hover{ color: #FFFFFF; }
+.div1 h2 a{ color: #FFFFFF; }
+.div1 h2 a:hover{ color: #FFFFFF; }
+.div1 h1 a{ color: #FFFFFF; }
+.div1 h1 a:hover{ color: #FFFFFF; }
+
+.div3{ background: rgba( 211, 211, 255, 1 ); width: 350px; float: left; margin: 10px; padding: 10px; text-align: left; border: #FFFFFF 1px solid; }
+.div3 a{ padding: 2px; margin: 2px 5px 2px 5px; }
+.div3 h4, h3, h2, h1{ color: #FFFFFF; background: rgba( 25, 100, 25, 1 ); text-align: center; font-weight: normal; font-size: 14px; padding: 2px 1px 2px 1px; margin: 10px 5px 3px 5px;  }
+.div3 h4 a{ color: #FFFFFF; }
+.div3 h4 a:hover{ color: #FFFFFF; }
+.div3 h3 a{ color: #FFFFFF; }
+.div3 h3 a:hover{ color: #FFFFFF; }
+.div3 h2 a{ color: #FFFFFF; }
+.div3 h2 a:hover{ color: #FFFFFF; }
+.div3 h1 a{ color: #FFFFFF; }
+.div3 h1 a:hover{ color: #FFFFFF; }
+
+.div2{ background: rgba( 200, 200, 255, 1 ); width: 550px; float: left; margin: 10px; padding: 10px; text-align: left; }
+.div2 a{ padding: 2px; margin: 2px 5px 2px 5px; }
+.div2 h4, h3, h2, h1{ color: #FFFFFF; background: rgba( 25, 100, 25, 1 ); text-align: center; font-weight: normal; font-size: 16px; padding: 2px; margin: 10px 5px 3px 5px; }
+.div2 h4 a{ color: #FFFFFF; }
+.div2 h4 a:hover{ color: #FFFFFF; }
+.div2 h3 a{ color: #FFFFFF; }
+.div2 h3 a:hover{ color: #FFFFFF; }
+.div2 h2 a{ color: #FFFFFF; }
+.div2 h2 a:hover{ color: #FFFFFF; }
+.div2 h1 a{ color: #FFFFFF; }
+.div2 h1 a:hover{ color: #FFFFFF; }
+
+.div4{ background: rgba( 200, 200, 255, 1 ); width: 220px; float: left; margin: 10px; padding: 10px; text-align: left; }
+.div4 a{ padding: 2px; margin: 2px 5px 2px 5px; }
+.div4 h4, h3, h2, h1{ color: #FFFFFF; background: rgba( 25, 25, 100, 1 ); text-align: center; font-weight: normal; font-size: 14px; padding: 2px 1px 2px 1px; margin: 10px 5px 3px 5px;  }
+.div4 h4 a{ color: #FFFFFF; }
+.div4 h4 a:hover{ color: #FFFFFF; }
+.div4 h3 a{ color: #FFFFFF; }
+.div4 h3 a:hover{ color: #FFFFFF; }
+.div4 h2 a{ color: #FFFFFF; }
+.div4 h2 a:hover{ color: #FFFFFF; }
+.div4 h1 a{ color: #FFFFFF; }
+.div4 h1 a:hover{ color: #FFFFFF; }
+
+
+
+#banner{ border: #FFFFFF 0px solid; border-bottom: rgba( 10,10,30,1) 0px solid; clear: both; background: rgba( 25, 25, 75, 1 ); color: #FFFFFF; text-align: center; padding: 3px; margin: 30px 0px 1px 0px; font-size: 17px; padding: 5px; }
+#banner a{ color: #FFFFFF; border: none; text-decoration: none; margin: 2px 10px 2px 5px; }
+#banner a:hover{ font-weight: bold; border: none; }
+
+#banner2{ border: #FFFFFF 0px solid; border-top: rgba( 10,10,30,1) 0px solid; clear: both; background: rgba( 75, 25, 25, 1 ); color: #FFFFFF; text-align: center; margin: 1px 0px 30px 0px; font-size: 15px; padding: 5px;  }
+#banner2 a{ color: #FFFFFF; border: none; text-decoration: none; margin: 2px 10px 2px 5px; }
+#banner2 a:hover{ border: none; font-weight: bold; }
+
+#main{ clear: both; padding: 10px; border: #999999 0px solid; }
+
+
+#foot{ clear: both; margin: 50px; border-top: #000000 2px solid; text-align: center; padding: 30px; }
+#foot p a{ margin-right: 5px;  }
+
+ul{ margin: 4px 1px 1px 10px; }
+li{ margin: 10px; }
+
+table{ border-collapse: collapse; border: rgba( 175, 175, 255, 1 ) 1px solid; margin: 40px 1px 10px 1px; }
+table td{ color: rgba( 25, 25, 50, 1 ); border: rgba( 175, 175, 255, 1 ) 1px solid; padding: 4px 10px 4px 10px; text-align: center; }
+
+.mm{ color: rgba( 11, 11, 11, 1 ); }
+.mm a{ color: rgba( 25, 20, 55, 1 ); }
+.mm h4{ background: rgba( 25, 100, 25, 1 ); color: rgba( 200, 175, 200, 1 ); padding: 1px; margin: 1px 1px 5px 1px; text-align: center; border: rgba( 17, 17, 25, 1 ) 1px solid; font-size: 12px; font-weight: normal; }
+.mm h3{ background: rgba( 25, 25, 100, 1 ); color: rgba( 200, 175, 200, 1 ); padding: 1px; margin: 1px 1px 5px 1px; text-align: center; border: rgba( 17, 17, 25, 1 ) 1px solid; font-size: 12px; font-weight: normal; }
+.mm h1{ background: rgba( 25, 25, 100, 1 ); color: rgba( 200, 130, 200, 1 );  padding: 2px; margin: 1px 1px 6px 1px; text-align: center; border: rgba( 17, 17, 25, 1 ) 1px solid; font-size: 15px;  }
+
+.hh{ background: rgba( 25, 25, 100, 1 ); color: rgba( 211, 150, 211, 1 );  padding: 2px; margin: 1px 1px 6px 1px; text-align: center; border: rgba( 17, 17, 25, 1 ) 1px solid; font-size: 14px; font-weight: normal; }
+
+
+
+.chart{ border: #FFFFFF 0px solid; clear: both; margin: 0px 0px 75px 0px }
+
+.postedOn{ font-style: italic; font-size: 12px; padding: 2px  2px 2px 30px; }
+
+.share{ font-size: 15px; padding: 2px  2px 2px 30px; }
+.share a{ text-decoration: none; font-weight: bold; margin: 1px 1px 1px 20px; }
+
+.tags{ font-size: 12px; padding: 2px  2px 2px 30px; }
+.tags a{ text-decoration: none; font-weight: bold; margin: 1px 1px 1px 20px; }
+
+#search{ border: #000000 0px solid; padding: 10px; background: rgba( 120, 120, 150, 1 ); color: rgba( 11, 11, 11, 1 ); text-align: left; position: absolute; top: 0px; right: 20px; font-weight: bold; }
+#search a{ border: #FFFFFF 0px solid; font-size: 12px;  color: rgba( 25, 25, 55, 1 ); padding: 4px; text-decoration: none; font-weight: bold; }
+#search a:hover{ color: #FFFFFF; }
+#search p{ margin: 2px 2px 1px 2px; }
+
+div.itemH{ min-height: 175px; margin: 10px; float: left; }
+div.itemH h2, h3{ font-size: 16px; padding: 1px; margin: 1px; border: rgba( 25, 25, 75, 1 ) 2px solid; }
+div.itemH p{ padding: 1px; margin: 1px 2px 4px 10px; }
+
+
+</style>
+<script type="text/javascript">
+var fullURL = "http://www.bullkhan.com/nse/";
+var dURL= "http://www.bullkhan.com/"; //"http://www.BullKhan.com/";
+var posX=0; var posY=0;
+var dtl=0;
+
+
+function search(){
+msb= document.getElementById("msb").value;
+msv= document.getElementById("msv").value;
+q= "&h=search&v="+msb+":"+msv;
+jax( "search", "searchResult", q );
+document.getElementById("searchResult").style.border = "#FFFFFF 1px solid";
+document.getElementById("searchResult").style.visibility = "visible";
+}//func
+
+function hideSearch(){
+document.getElementById("searchResult").style.visibility = "hidden";
+}//func
+
+
+
+function jax( act, outid, q ){
+aa= document.getElementById( outid );
+u= dURL+act;
+
+
+var ajaxRequest; try{ ajaxRequest = new XMLHttpRequest(); } catch (e){ try{ ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) { try{ ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP"); } catch (e){ alert("Your browser does not support ajax. Allow Active scriptting in internet settings."); return false; } } } ajaxRequest.onreadystatechange= function(){
+if(ajaxRequest.readyState == 4){
+respo=ajaxRequest.responseText;
+
+if(respo=="login"){ window.location= dURL + "login"; }
+
+
+aa.innerHTML = respo;
+
+}
+}
+ajaxRequest.open("POST", u, true);
+ajaxRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+ajaxRequest.send(q);
+}//func
+
+
+
+function addEMA(){
+mav= document.getElementById("mav").value;
+mac= document.getElementById("mac").value;
+q= "h=addEMA&mav="+mav+"&mac="+mac;
+jax( "addEMA", "emal", q );
+}//func
+
+function delEMA( k ){
+q= "h=delEMA&k="+k;
+jax( "delEMA", "emal", q );
+}//func
+
+function addIndicator(){
+n= document.getElementById("indN").value;
+v= document.getElementById("indV").value;
+q= "&h=addIndicator&n="+n+"&v="+v;
+jax(  "addIndicator", "indL", q );
+}//func
+
+function delIndicator(n){
+q= "&h=delIndicator&n="+n;
+jax( "delIndicator", "indL", q );
+}//func
+
+function reloadChart(sb, addPara){
+dtl=0;
+rr= Math.floor(Math.random() * 20);
+u=fullURL+"chart/"+sb +"/"+addPara+"/?"+rr;
+document.getElementById("IMG").src = u;
+//alert(document.getElementById("IMG").src);
+}//func
+
+
+function renko( sb ){
+r= document.getElementById("rpf").value;
+q= "&h=setRenko&r="+r;
+jax( "setRenko", "rpnf", q );
+setTimeout(function() { reloadChart(sb,"renko"); }, 3000);
+}//func
+
+function pnf( sb ){
+r= document.getElementById("rpf").value;
+q= "&h=setPNF&r="+r;
+jax( "setPNF", "rpnf", q );
+setTimeout(function() { reloadChart(sb,"pnf"); }, 3000);
+}//func
+
+
+function dtlON( sb ){
+dtl=1;
+u=fullURL+"chart/"+sb +"/trendline/250/";
+document.getElementById("IMG").src = u;
+}//func
+
+
+function drawTrend( event, img, sb ){
+if(dtl==1){
+posX=0;
+posY=0;
+posX = event.offsetX?(event.offsetX):event.pageX-img.offsetLeft;
+posY = event.offsetY?(event.offsetY):event.pageY-img.offsetTop;
+posX= Math.round(posX);
+posY= Math.round(posY);
+
+u=fullURL+"chart/"+sb +"/trendline/250/"+ posX+"/"+posY;
+document.getElementById("IMG").src = u;
+}//dtl
+}//func
+
+
+function undoLine( sb ){
+sec = new Date().getTime();
+u=fullURL+"chart/"+sb +"/trendline/250/undo/tt"+sec;
+document.getElementById("IMG").src = u;
+}
+
+function clearLine( sb ){
+sec = new Date().getTime();
+u=fullURL+"chart/"+sb +"/trendline/250/clear/tt"+sec;
+document.getElementById("IMG").src = u;
+}
+
+
+
+function scanStocks(n){
+u=fullURL+ "scanner/list/";
+
+
+v=document.getElementById("back").value;
+u=u+ "backday-"+ v+"/";
+
+
+v=document.getElementById("pb").value;
+u=u+ "price-"+v+"/";
+
+t=document.getElementById("maba").value;
+v=document.getElementById("mav").value;
+u=u+ "ma-"+t+"-"+v+"/";
+
+v=document.getElementById("trend").value;
+u=u+"trend-"+v+"/";
+
+v=document.getElementById("candle").value;
+u=u+ "candle-" +v+ "/";
+
+v=document.getElementById("pattern").value;
+u=u+ "pattern-" +v+ "/";
+
+v=document.getElementById("avgVol").value;
+u=u+ "vol-" +v+ "/";
+
+v=document.getElementById("moved").value;
+u=u+ "moved-" +v+ "/";
+
+window.location=u;
+}//func
+
+
+function tradingCalls(){
+
+t=document.getElementById("t").value;
+p=document.getElementById("p").value;
+
+u= fullURL +"tradingCalls/"+t+"/"+p;
+window.location=u;
+}//func
+
+function clearForm( id ){
+document.getElementById(id).value="";
+}
+
+function addTrack( sb, q ){
+
+id= "alertL_"+sb;
+alertL= document.getElementById(id).value;
+
+id= "notesL_"+sb;
+notesL= document.getElementById(id).value;
+
+q = q + "&a="+ alertL+ "&n="+notesL;
+
+id= "ttr_"+sb;
+jax( "addTrack", id, q );
+}//func
+
+function addToIntraWatch2( sb, q ){
+
+id= "alertL_"+sb;
+alertL= document.getElementById(id).value;
+
+id= "notesL_"+sb;
+notesL= document.getElementById(id).value;
+
+q = q + "&a="+ alertL+ "&n="+notesL;
+
+id= "ttr_"+sb;
+jax( "addToIntraWatch", id, q );
+}//func
+
+
+function addToIntraWatch( m, sb, price, n ){
+
+outid= "iwl_"+sb;
+q="&m="+m+"&sb="+sb+"&price="+price+"&n="+n;
+
+jax( "addToIntraWatch", outid, q );
+
+}//func
+
+
+
+
+
+
+
+</script>
+<script type="text/javascript" src="http://www.BullKhan.com/j.js"></script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+</head><body><center>
+<div id="fb-root"></div>
+<script type="text/javascript">
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/hi_IN/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<div id="page">
+
+<div id="top">
+<a href="http://www.BullKhan.com" style=" border: none; padding: 0px; margin: 0px; "><img src="http://www.BullKhan.com/images/bullKhan.png" alt="logo" style=" border: none; padding: 0px; margin: 0px 0px -2px 0px; " /></a>
+<a href="http://www.munafasutra.com/page/ebook"><img src="http://www.BullKhan.com/images/book.png" alt=" book" style=" border: none;" /></a>
+<a href="http://www.munafasutra.com/page/eBuySell" style="text-decoration: none;"><img src="http://www.BullKhan.com/images/niftyCalls.png" alt=" Intraday and positional picks "  style=" border: none;" /></a>
+
+</div>
+
+<div id="search">
+<select name="msb" id="msb"> <option value="nse" selected>NSE</option><option value="bse">BSE</option><option value="nasdaq">NASDAQ</option><option value="nyse">NYSE</option><option value="amex">AMEX</option><option value="forex">FOREX</option><option value="indices">INDICES</option><option value="asx">ASX</option><option value="tsx">TSX</option> </select>
+<input type="text" name="msv" id="msv" style=" width: 100px;" /> <a href="javascript: search()" style=" border: #FFFFFF 1px solid; font-size: 14px; padding: 2px; background: rgba(35, 35, 100, 1); "> Search </a>
+<div id="searchResult" style=" margin: 5px;"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<ul>
+<li> <a href="http://www.bullkhan.com/liveCharts/NIFTY_50"> Predict Live Nifty Candle,Renko,PNF </a> </li>
+<li> <a href="http://www.bullkhan.com/liveCharts/NIFTY_BANK"> Predict Live BANKNIFTY Candle,Renko,PNF </a> </li>
+
+
+<li><a href="http://www.bullkhan.com/ExpiryToExpiry"> Expiry to Expiry Candle charts </a></li>
+</ul>
+
+
+</div>
+
+<h4>www.BullKhan.com</h4>
+<div id="banner"> 
+<a href="http://www.bullkhan.com/login"> Your DashBoard </a><a href="http://www.bullkhan.com/"> Home </a><a href="http://www.bullkhan.com/nse/marketReport">NSE </a><a href="http://www.bullkhan.com/bse/marketReport">BSE </a><a href="http://www.bullkhan.com/nasdaq/marketReport">NASDAQ </a><a href="http://www.bullkhan.com/nyse/marketReport">NYSE </a><a href="http://www.bullkhan.com/amex/marketReport">AMEX </a><a href="http://www.bullkhan.com/forex/marketReport">FOREX </a><a href="http://www.bullkhan.com/indices/marketReport">INDICES </a><a href="http://www.bullkhan.com/asx/marketReport">ASX </a><a href="http://www.bullkhan.com/tsx/marketReport">TSX </a> 
+</div>
+
+<div id="banner2"> 
+ 
+</div>
+
+
+
+<div id="main">
+
+<h1> Diligent Media Corp Ltd. DNAMEDIA Forecast Prediction,Technical Analysis. Diligent Media Corp Ltd. DNAMEDIA share trades in NSE Stock Exchange  </h1><p> Diligent Media Corp Ltd. DNAMEDIA Forecast Prediction,Technical Analysis. Diligent Media Corp Ltd. DNAMEDIA share trades in NSE Stock Exchange    </p><div class="div3">
+<h1>Diligent Media Corp Ltd. DNAMEDIA Forecast Prediction,Technical Analysis. Diligent Media Corp Ltd. DNAMEDIA share trades in NSE Stock Exchange </h1>
+<p> Diligent Media Corp Ltd. DNAMEDIA   </p>
+<p>Diligent Media Corp Ltd. DNAMEDIA WideScreen charts, forecast prediction, technical analysis by indicators ADX,MACD,RSI,CCI NSE stock exchange</p>
+
+
+<h2>Diligent Media Corp Ltd. DNAMEDIA Current Price 24 Dec, 2018 </h2>
+Closed at:4.50 which is 8.43% from previous closing of 4.15<br />
+Opened at: 4.15 & Moved in a range of 3.80 to 4.60<br />
+With a volume of 0.037M 
+<p> 
+<input type="text" id="alertL_DNAMEDIA" onfocus=" clearForm('alertL_DNAMEDIA')" value="Alert me when stock is near this level"  /><br />
+<input type="text" id="notesL_DNAMEDIA" onfocus=" clearForm('notesL_DNAMEDIA')" value="Any observations or notes you want to remember"  /> 
+<a id="ttr_DNAMEDIA" href="javascript: addTrack( 'DNAMEDIA', '&m=nse&sb=DNAMEDIA&' )"> Add to Track list </a> 
+</p>
+</div><div class="div3" style=" width: 400px;" >
+<center><table>
+<tr><td style="padding: 4px;"> Date </td><td style="padding: 4px;"> Close </td><td style="padding: 4px;"> Open </td><td style="padding: 4px;"> High </td><td style="padding: 4px;"> Low </td></tr>
+<tr><td style="padding: 4px;">24 Mon Dec</td><td style="padding: 4px;"> 4.50</td><td style="padding: 4px;"> 4.15</td><td style="padding: 4px;"> 4.60</td><td style="padding: 4px;"> 3.80</td></tr><tr><td style="padding: 4px;">21 Fri Dec</td><td style="padding: 4px;"> 4.15</td><td style="padding: 4px;"> 3.95</td><td style="padding: 4px;"> 4.20</td><td style="padding: 4px;"> 3.85</td></tr><tr><td style="padding: 4px;">20 Thu Dec</td><td style="padding: 4px;"> 4.00</td><td style="padding: 4px;"> 3.75</td><td style="padding: 4px;"> 4.00</td><td style="padding: 4px;"> 3.75</td></tr><tr><td style="padding: 4px;">19 Wed Dec</td><td style="padding: 4px;"> 4.00</td><td style="padding: 4px;"> 4.00</td><td style="padding: 4px;"> 4.00</td><td style="padding: 4px;"> 3.65</td></tr><tr><td style="padding: 4px;">18 Tue Dec</td><td style="padding: 4px;"> 3.85</td><td style="padding: 4px;"> 3.70</td><td style="padding: 4px;"> 3.90</td><td style="padding: 4px;"> 3.60</td></tr></table></center>
+
+<h4>DNAMEDIA Daily Line & Candle Stick charts: </h4>
+<a href="javascript: reloadChart('DNAMEDIA', 'daily/5' )"> 5day </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'daily/10' )"> 10D </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'daily/20' )"> 20D </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'daily/60' )"> 60D (3M) </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'daily/120' )"> 120D (6M) </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'daily/250' )"> 250D (1Y) </a>
+
+<h4>DNAMEDIA Weekly & Monthly charts: </h4>
+<a href="javascript: reloadChart('DNAMEDIA', 'weekly/60' )"> 60W (1Y) </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'weekly/120' )"> 120W (2Y) </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'weekly/250' )"> 250W (5Y) </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'monthly/60' )"> Monthly (5Y) </a>
+
+<h4>DNAMEDIA Premium charts: </h4>
+<a href="javascript: reloadChart('DNAMEDIA', 'hourly/' )"> Hourly & 10min </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'movingcandles/' )"> Moving Candles </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'bullview/' )"> Bull View </a>
+<a href="javascript: reloadChart('DNAMEDIA', 'eagleview/' )"> Eagle View </a>
+
+<h4>DNAMEDIA Renko, P&F charts: </h4>
+<input type="text" id="rpf" value="2,2,3" style=" width: 60px;" />
+<a href="javascript: renko('DNAMEDIA')"> Renko </a>
+<a href="javascript: pnf('DNAMEDIA')"> Point & Figure </a>
+<div id="rpnf"></div>
+</div>
+<div class="div3">
+<h4> Add Indicators on chart: </h4>
+
+<select id="indN" style=" width: 100px;">
+<option value="MACD">MACD </option>
+<option value="ADX">ADX </option>
+<option value="CCI">CCI </option>
+<option value="SR">SR RSI+Stochastics </option>
+<option value="BollingerBand">Bollinger Bands </option>
+<option value="ICHIMOKU">Ichimoku cloud </option>
+<option value="MRSI">MRSI </option>
+</select>
+
+<input type="text" id="indV" value="12,26,9" style=" width: 70px;" /> 
+<a href="javascript: addIndicator()"> Add This </a>
+<ul id="indL">
+<li> <a href="javascript: delIndicator('CCI')">CCI ( 20 ) </a></li><li> <a href="javascript: delIndicator('SR')">SR ( 14,3,3 ) </a></li><li> <a href="javascript: delIndicator('ICHIMOKU')">ICHIMOKU ( 9,26,52 ) </a></li><li> <a href="javascript: delIndicator('BollingerBand')">BollingerBand ( 20 ) </a></li><li> <a href="javascript: delIndicator('MACD')">MACD ( 12,26,9 ) </a></li><li> <a href="javascript: delIndicator('ADX')">ADX ( 14 ) </a></li></ul>
+
+
+<h4> Moving Averages Overlay: </h4>
+<input type="text" id="mav" value="12" style=" width: 60px;"> 
+<select id="mac"> <option value="dotted"> Dotted </option> <option value="FireBrick">FireBrick</option><option value="Brick">Brick</option><option value="DarkBrick">DarkBrick</option><option value="GoldenRod">GoldenRod</option><option value="Chocolate">Chocolate</option><option value="DarkChocolate">DarkChocolate</option><option value="Tan">Tan</option><option value="DarkTan">DarkTan</option><option value="IndianRed">IndianRed</option><option value="Crimson">Crimson</option><option value="LightPink">LightPink</option><option value="Pink">Pink</option><option value="Lavender">Lavender</option><option value="Violet">Violet</option><option value="Turquoise">Turquoise</option><option value="Aqua">Aqua</option><option value="DarkAqua">DarkAqua</option><option value="Navy">Navy</option><option value="MidNightBlue">MidNightBlue</option><option value="SeaGreen">SeaGreen</option><option value="ForestGreen">ForestGreen</option><option value="LightOrange">LightOrange</option><option value="Orange">Orange</option><option value="DarkOrange">DarkOrange</option><option value="Yellow">Yellow</option><option value="DarkYellow">DarkYellow</option></select>
+<a href="javascript: addEMA()"> Add EMA </a>
+
+<ul id="emal"><li><a href="javascript: delEMA('200')">200 in LightOrange</a></li><li><a href="javascript: delEMA('50')">50 in ForestGreen</a></li><li><a href="javascript: delEMA('20')">20 in IndianRed</a></li></ul>
+
+ <button onclick=" reloadChart('DNAMEDIA', '')"> Refresh the Chart </button>
+</div>
+
+<div style=" text-align: right; clear: both; padding: 15px 20px 10px 20px; "> 
+<a href="javascript: dtlON( 'DNAMEDIA' );"> Draw TrendLines </a> &nbsp; 
+<a href="javascript: undoLine( 'DNAMEDIA' );"> Undo Last TrendLines </a> &nbsp; 
+<a href="javascript: clearLine( 'DNAMEDIA' );"> Clear All TrendLines of Diligent Media Corp Ltd.</a> &nbsp;  
+</div>
+<center>
+<div id="imgChart" class="chart"> 
+<img id="IMG" 
+onclick=" drawTrend( event, this, 'DNAMEDIA' ); " 
+alt="Diligent Media Corp Ltd. charts and indicators" 
+src="http://www.bullkhan.com/nse/chart/DNAMEDIA/" />
+</div></center>
+<div class="div3">
+<h1>Diligent Media Corp Ltd. Technical analysis by Moving Averages </h1>
+<p> Stock is above 20 EMA <p> Stock is above 50 EMA <p> Stock is below 200 EMA <p> 200 day average is above 50 day average <p> 200 day average is above 20 day average <p> 50 day average is above 20 day average <p> Stock is definetely moving upwards <h3> Support & Resistance levels for Diligent Media Corp Ltd. DNAMEDIA</h3>8 &nbsp; 9 &nbsp; 7 &nbsp; 10 &nbsp; 6 &nbsp; 5 &nbsp; 4 &nbsp; <p>Diligent Media Corp Ltd. DNAMEDIA seems to have been turning around at these levels. Most important support and resistance levels are listed first. 
+These levels can serve as share price target for Diligent Media Corp Ltd. in the direction of trend. 
+</p><p> &nbsp; 7 &nbsp;  These levels work as strong resistance levels <p> &nbsp; 7 &nbsp;  These levels work as strong support levels. 
+If levels listed here are also listed in resistance list, it simply means that the point is a much stronger point and has been tested multiple times in both uptrend and downtrend. 
+These levels will be a stronger share price target for Diligent Media Corp Ltd.
+ <h3> 20 day moving average for Diligent Media Corp Ltd. DNAMEDIA</h3>
+<p>Old first:  3.9 &nbsp; 3.8 &nbsp; 3.9 &nbsp; 3.8 &nbsp; 3.8 &nbsp; 3.8 &nbsp; 3.8 &nbsp; 3.9 &nbsp; 3.9 &nbsp; 3.9 &nbsp; <h3> 50 day moving average for Diligent Media Corp Ltd. DNAMEDIA</h3>
+<p>Old first:  4.4 &nbsp; 4.4 &nbsp; 4.4 &nbsp; 4.3 &nbsp; 4.3 &nbsp; 4.3 &nbsp; 4.3 &nbsp; 4.3 &nbsp; 4.2 &nbsp; 4.2 &nbsp; <h3> 200 day moving average for Diligent Media Corp Ltd. DNAMEDIA</h3>
+<p>Old first:  6.8 &nbsp; 6.7 &nbsp; 6.7 &nbsp; 6.7 &nbsp; 6.6 &nbsp; 6.6 &nbsp; 6.6 &nbsp; 6.6 &nbsp; 6.5 &nbsp; 6.5 &nbsp; <p> All these levels will serve as share price targets for Diligent Media Corp Ltd. in intra day trading. </div><div class="div3">
+<h1>Diligent Media Corp Ltd. DNAMEDIA Technical Analysis & Forecast prediction by Indicators </h1>
+<p> Diligent Media Corp Ltd. DNAMEDIA </p>
+<h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by BollingerBands </h2>
+<p> SMA20 is at 4 and price is deviating by 1 points <p> Upper band is at 5 and lower is at 4<p> Price is rising <p> Price is above 20day SMA </p><p> Price is in upper range of bands <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by ADX </h2>
+<p> ADX signal is BUY.  Signal strength is Strong  and its speeding <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by MACD </h2><p> MACD generated a BUY signal recently  and the buy signal is strong <p> MACD line is moving upwards which means that SELL signal is weakening, but BUY signal is picking up momentum <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by RSI </h2><p> RSI is generating a BUY signal  and the buy signal is getting stronger <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by Stochastics </h2><p> Stochastics has generated a BUY signal  but the buy signal is weakening <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by Ichimoku cloud </h2><p> Ichimoku cloud is of red color  and prices are in or above the red cloud <p> Prices appear to be moving up <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by CCI </h2><p> CCI has generated a buy signal  and the BUY signal is strong <h2> Diligent Media Corp Ltd. DNAMEDIA Technical analysis & Forecast prediction by MRSI 26 & 6</h2><p> MRSI is in positive zone. This is a BUY zone <p> MRSI is picking up buying momentum <p style=" background: rgba( 200, 200, 200, 1); padding: 10px; ">
+Did you know you can check "BullKhan" value of stocks that are added in your track list? <br />
+BullKhan value is derived using the famous "Munafa" value of a stock. <br /><br />
+
+Munafa value is a complex algorithm developed by technical analysts at MunafaSutra.com which predicts extremely short term movement of any given stock. Its upto 90% accurate! Thousands of traders worldwide are using just Munafa Value of a stock for day trading... If it was not accurate, then why would they use it?  <br /><br />
+Based on Munafa value, BullKhan value predicts the movement of any given stock for a much longer duration! <br />
+<a href="http://www.bullkhan.com/trackList/nse"> View your track list & BullKhan value of all stocks in track list here. Its free! </a>
+</p>
+</div><div class="div3" style="  ">
+<h1> 5 day Price & Volume technical analysis of Diligent Media Corp Ltd. DNAMEDIA</h1>
+<ul>
+<li class="mm" style=" clear: both; margin: 20px 10px 10px 10px; ">
+<h4> 24 Mon Dec 2018</h4>
+<table style=" margin: 4px 1px 3px 1px; float: right; "><tr><td> Order </td><td> Value </td></tr><tr><td>200MA</td><td>6.48</td></tr><tr><td>Price</td><td>4.5</td></tr><tr><td>50MA</td><td>4.25</td></tr><tr><td>20MA</td><td>3.95</td></tr></table>
+Prev Close: 4.15<br />
+Closing: 4.50 which is 8.43%<br />
+
+Open: 4.15<br />
+Range: 3.80 to 4.60<br />
+Volume: 0.037 M, which is 3.58 times of 10day averaged daily volume <br />
+</li><li class="mm" style=" clear: both; margin: 20px 10px 10px 10px; ">
+<h4> 21 Fri Dec 2018</h4>
+<table style=" margin: 4px 1px 3px 1px; float: right; "><tr><td> Order </td><td> Value </td></tr><tr><td>200MA</td><td>6.5</td></tr><tr><td>50MA</td><td>4.24</td></tr><tr><td>Price</td><td>4.15</td></tr><tr><td>20MA</td><td>3.89</td></tr></table>
+Prev Close: 4.00<br />
+Closing: 4.15 which is 3.75%<br />
+
+Open: 3.95<br />
+Range: 3.85 to 4.60<br />
+Volume: 0.041 M, which is 3.99 times of 10day averaged daily volume <br />
+</li><li class="mm" style=" clear: both; margin: 20px 10px 10px 10px; ">
+<h4> 20 Thu Dec 2018</h4>
+<table style=" margin: 4px 1px 3px 1px; float: right; "><tr><td> Order </td><td> Value </td></tr><tr><td>200MA</td><td>6.52</td></tr><tr><td>50MA</td><td>4.24</td></tr><tr><td>Price</td><td>4</td></tr><tr><td>20MA</td><td>3.86</td></tr></table>
+Prev Close: 4.00<br />
+Closing: 4.00 which is 0%<br />
+
+Open: 3.75<br />
+Range: 3.75 to 4.60<br />
+Volume: 0.044 M, which is 4.27 times of 10day averaged daily volume <br />
+</li><li class="mm" style=" clear: both; margin: 20px 10px 10px 10px; ">
+<h4> 19 Wed Dec 2018</h4>
+<table style=" margin: 4px 1px 3px 1px; float: right; "><tr><td> Order </td><td> Value </td></tr><tr><td>200MA</td><td>6.55</td></tr><tr><td>50MA</td><td>4.25</td></tr><tr><td>Price</td><td>4</td></tr><tr><td>20MA</td><td>3.85</td></tr></table>
+Prev Close: 3.85<br />
+Closing: 4.00 which is 3.9%<br />
+
+Open: 4.00<br />
+Range: 3.65 to 4.60<br />
+Volume: 0.03 M, which is 2.87 times of 10day averaged daily volume <br />
+</li><li class="mm" style=" clear: both; margin: 20px 10px 10px 10px; ">
+<h4> 18 Tue Dec 2018</h4>
+<table style=" margin: 4px 1px 3px 1px; float: right; "><tr><td> Order </td><td> Value </td></tr><tr><td>200MA</td><td>6.58</td></tr><tr><td>50MA</td><td>4.26</td></tr><tr><td>Price</td><td>3.85</td></tr><tr><td>20MA</td><td>3.83</td></tr></table>
+Prev Close: 3.70<br />
+Closing: 3.85 which is 4.05%<br />
+
+Open: 3.70<br />
+Range: 3.60 to 4.60<br />
+Volume: 0.024 M, which is 2.28 times of 10day averaged daily volume <br />
+</li></ul></div><div style=" clear: both; "></div><p style="clear: both; margin: 40px;"></p>
+
+<div style=" clear: both; margin: 30px; text-align: center; "> 
+<a href="https://twitter.com/share" class="twitter-share-button" data-text="" data-url="http://www.bullkhan.com/nse/stock/DNAMEDIA/" data-via="MunafaSutra" data-hashtags="stockMarket" data-related="" data-show-count="true">Tweet</a>
+
+<div class="fb-share-button" data-href="http://www.bullkhan.com/nse/stock/DNAMEDIA/" data-layout="button_count" data-size="small" data-mobile-iframe="true">
+<a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.bullkhan.com%2Fnse%2Fstock%2FDNAMEDIA%2F&amp;src=sdkpreparse"> Share to Facebook </a>
+</div>
+<script type="IN/Share" data-url="http://www.bullkhan.com/nse/stock/DNAMEDIA/" data-counter="right"></script>
+
+
+<g:plus action="share"></g:plus>
+<div class="g-plus" data-action="share" data-href="http://www.bullkhan.com/nse/stock/DNAMEDIA/"></div>
+
+ </div>
+<div id="foot"> 
+ &copy; Copyright www.BullKhan.com 2017 All rights reserved 
+<p> Disclaimer: Data is provided by financial exchanges and may be delayed as specified by financial exchanges or data providers. Information is provided "as is" and solely for informational purposes, not for trading purposes or advice. </p>
+</div>
+</div>
+
+</div>
+</center></body></html>

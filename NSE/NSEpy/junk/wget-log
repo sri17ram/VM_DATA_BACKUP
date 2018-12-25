@@ -1,0 +1,6 @@
+--2018-12-25 15:24:49--  http://charting.bseindia.com/charting/RestDataProvider.svc/getDatI?exch=N
+Resolving charting.bseindia.com (charting.bseindia.com)... 43.228.176.70
+Connecting to charting.bseindia.com (charting.bseindia.com)|43.228.176.70|:80... connected.
+HTTP request sent, awaiting response... 405 Method Not Allowed
+2018-12-25 15:24:51 ERROR 405: Method Not Allowed.
+
