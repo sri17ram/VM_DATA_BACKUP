@@ -1,0 +1,14 @@
+[I 14:57:03.320 NotebookApp] Serving notebooks from local directory: /home/tools/VM_DATA_BACKUP
+[I 14:57:03.320 NotebookApp] The Jupyter Notebook is running at:
+[I 14:57:03.321 NotebookApp] http://(Aprendizaje or 127.0.0.1):8888/?token=79dc69495d0e59ebc1bfac9eacffed117f63acfd24ef3ebd
+[I 14:57:03.321 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:57:03.322 NotebookApp] No web browser found: could not locate runnable browser.
+[C 14:57:03.322 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://(Aprendizaje or 127.0.0.1):8888/?token=79dc69495d0e59ebc1bfac9eacffed117f63acfd24ef3ebd
+[I 14:57:10.775 NotebookApp] Saving file at /NSE/NSEpy/Other_Analysis.ipynb
+[I 14:57:26.152 NotebookApp] Kernel started: 7e53707b-1f21-4b2a-88f8-f52a6247a157
+[I 14:57:27.064 NotebookApp] Adapting to protocol v5.1 for kernel 7e53707b-1f21-4b2a-88f8-f52a6247a157
+[I 14:59:26.541 NotebookApp] Saving file at /NSE/NSEpy/Other_Analysis.ipynb

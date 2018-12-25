@@ -5509,3 +5509,77 @@ Untracked files:
 	NSE/NSEpy/Other_Analysis.ipynb
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master f3e2805] 2018_12_25_12_00_01_1545719401
+ 4 files changed, 507 insertions(+), 321 deletions(-)
+ create mode 100644 NSE/NSEpy/.ipynb_checkpoints/Other_Analysis-checkpoint.ipynb
+ create mode 100644 NSE/NSEpy/Other_Analysis.ipynb
+ .../Other_Analysis-checkpoint.ipynb                | 320 ++++++++++++++++++
+ NSE/NSEpy/All-Time  Low.ipynb                      | 364 +++------------------
+ NSE/NSEpy/Other_Analysis.ipynb                     |  75 +++++
+ VM_CONFIGS/git_push.cron.out                       |  69 ++++
+ 4 files changed, 507 insertions(+), 321 deletions(-)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   9a11fe2..f3e2805  master -> master
+2018_12_25_12_00_10_1545719410
+***************************************************************************
+2018_12_25_15_00_01_1545730201
+.
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── nohup.out
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── Other_Analysis.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+9 directories, 22 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   NSE/NSEpy/Other_Analysis.ipynb
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+	nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
