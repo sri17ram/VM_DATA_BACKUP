@@ -6200,3 +6200,87 @@ Untracked files:
 	CORE/.general.txt.swp
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 6ed53fb] 2018_12_26_04_00_01_1545777001
+ 4 files changed, 87 insertions(+), 2 deletions(-)
+ create mode 100644 CORE/.general.txt.swp
+ rewrite CORE/revise.txt (100%)
+ CORE/.general.txt.swp        | Bin 0 -> 12288 bytes
+ CORE/.revise.txt.swp         | Bin 0 -> 12288 bytes
+ CORE/revise.txt              |  11 +++-
+ VM_CONFIGS/git_push.cron.out | 154 +++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 163 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://github.com/sri17ram/VM_DATA_BACKUP.git/': Could not resolve host: github.com
+2018_12_26_04_00_01_1545777001
+***************************************************************************
+2018_12_26_05_00_02_1545780602
+.
+├── CORE
+│   ├── general.txt
+│   ├── revise.txt
+│   └── sources.txt
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── nohup.out
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── junk
+│   │   │   ├── DNAMEDIA
+│   │   │   └── wget-log
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── Other_Analysis.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+11 directories, 27 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	deleted:    CORE/.general.txt.swp
+	deleted:    CORE/.revise.txt.swp
+	modified:   CORE/sources.txt
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+	CORE/general.txt
+	VM_CONFIGS/.gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
