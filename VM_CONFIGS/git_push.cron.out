@@ -5662,3 +5662,89 @@ Untracked files:
 	NSE/NSEpy/junk/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 9baa0dc] 2018_12_25_21_00_01_1545751801
+ 8 files changed, 683 insertions(+)
+ create mode 100644 CORE/.revise.txt.swp
+ create mode 100644 CORE/.sources.txt.swp
+ create mode 100644 CORE/revise.txt
+ create mode 100644 CORE/sources.txt
+ create mode 100644 NSE/NSEpy/junk/DNAMEDIA
+ create mode 100644 NSE/NSEpy/junk/wget-log
+ CORE/.revise.txt.swp         | Bin 0 -> 12288 bytes
+ CORE/.sources.txt.swp        | Bin 0 -> 12288 bytes
+ CORE/revise.txt              |   2 +
+ CORE/sources.txt             |   2 +
+ NSE/NSEpy/junk/DNAMEDIA      | 591 +++++++++++++++++++++++++++++++++++++++++++
+ NSE/NSEpy/junk/wget-log      |   6 +
+ VM_CONFIGS/git_push.cron.out |  79 ++++++
+ nohup.out                    |   3 +
+ 8 files changed, 683 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   1cf7954..9baa0dc  master -> master
+2018_12_25_21_00_13_1545751813
+***************************************************************************
+2018_12_25_22_00_01_1545755401
+.
+├── CORE
+│   ├── revise.txt
+│   └── sources.txt
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── nohup.out
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── junk
+│   │   │   ├── DNAMEDIA
+│   │   │   └── wget-log
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── Other_Analysis.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+11 directories, 26 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
