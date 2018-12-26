@@ -4,6 +4,14 @@ Quantized Energies |1 |1.5 |Law of Quantum Theory(Fixed or Quantized Values), En
 
 Atomic & Electronic Weight |1 |1.4 |Atom(Central Nucleus, Orbital Electrons), Atomic Weight, Atomic Number, Nucleons
 
-Classification of Solids from EE Point of view| 1| 1.3| 4types 
+Classification of Solids from EE Point of view| 1| 1.3| 4types
+
+Conductors |1 |1.3.1 | Conductors, Joule's Law, Wiedmann Franz Law, Super conductor-Transition Temperature, Good Conductors, Low & high Resistivity Conductors (Alloys/metals)
+
+Insulators |1 |1.3.2 | Insulators, Dielectrics, Types of insulating Materials available
+
+
+
+
 
 
