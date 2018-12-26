@@ -21,3 +21,5 @@ Atom Arrangement in Materials|1 |1.7 |Atomic grouping, 3types, examples of molec
 Two Limitation of DTFT| | |8.0 |8;Introduction - Problems, Solution; Variants of Z Transform
 
 Wien Bridge - Equation Derivation with Diagram and proper naming convention for resistance - Frequency, Resistance Formulas
+
+Wagner Earthing Device - A->R1;D=0;Cs=V, B->Rw;D=0;Cs=0, Stray Capacitance - Nullify
