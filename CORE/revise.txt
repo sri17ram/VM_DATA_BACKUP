@@ -8,9 +8,12 @@ Classification of Solids from EE Point of view| 1| 1.3| 4types
 
 Conductors |1 |1.3.1 | Conductors, Joule's Law, Wiedmann Franz Law, Super conductor-Transition Temperature, Good Conductors, Low & high Resistivity Conductors (Alloys/metals)
 
-Insulators |1 |1.3.2 | Insulators, Dielectrics, Types of insulating Materials available
+Insulators |1 |1.3.2 | Insulators(Insulation b/w 2 medias), Dielectrics, Types of insulating Materials available
 
 Magnetic Materials |1 |1.3.3 | Magnetic Materials, 5 Uses, Pure Magnetic Elements, Magnetic Alloys
 
 Semiconductors |1 |1.3.4 | Semiconductors, Pure(2), Other(3) & Magnetic(3) Semiconductors
 
+Crystalline Structure of Metals|1 |1.7.1 |Crystalline, Non-Crystalline, Space Lattice(regular geometric array), Unit-Cells(Unit-building-block), Single Crystal, Poly-Crystalline
+
+Atom Arrangement in Materials|1 |1.7 |Atomic grouping, 3types, examples of molecules, amorphorous
