@@ -6826,3 +6826,80 @@ Untracked files:
 	.python_history
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master d158101] 2018_12_26_23_00_01_1545845401
+ 1 file changed, 76 insertions(+)
+ CORE/general.txt             |   3 +
+ CORE/revise.txt              |   8 +-
+ VM_CONFIGS/git_push.cron.out | 304 +++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 311 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://github.com/sri17ram/VM_DATA_BACKUP.git/': Could not resolve host: github.com
+2018_12_26_23_00_02_1545845402
+***************************************************************************
+2018_12_27_00_00_01_1545849001
+.
+├── CORE
+│   ├── general.txt
+│   ├── revise.txt
+│   └── sources.txt
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── nohup.out
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── junk
+│   │   │   ├── DNAMEDIA
+│   │   │   └── wget-log
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── Other_Analysis.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+11 directories, 27 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   CORE/revise.txt
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")

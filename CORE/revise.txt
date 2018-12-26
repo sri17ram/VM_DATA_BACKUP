@@ -17,3 +17,5 @@ Semiconductors |1 |1.3.4 | Semiconductors, Pure(2), Other(3) & Magnetic(3) Semic
 Crystalline Structure of Metals|1 |1.7.1 |Crystalline, Non-Crystalline, Space Lattice(regular geometric array), Unit-Cells(Unit-building-block), Single Crystal, Poly-Crystalline
 
 Atom Arrangement in Materials|1 |1.7 |Atomic grouping, 3types, examples of molecules, amorphorous
+
+Two Limitation of DTFT| | |8.0 |8;Introduction - Problems, Solution; Variants of Z Transform
