@@ -19,3 +19,5 @@ Crystalline Structure of Metals|1 |1.7.1 |Crystalline, Non-Crystalline, Space La
 Atom Arrangement in Materials|1 |1.7 |Atomic grouping, 3types, examples of molecules, amorphorous
 
 Two Limitation of DTFT| | |8.0 |8;Introduction - Problems, Solution; Variants of Z Transform
+
+Wien Bridge - Equation Derivation with Diagram and proper naming convention for resistance - Frequency, Resistance Formulas
