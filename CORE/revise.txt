@@ -23,3 +23,7 @@ Two Limitation of DTFT| | |8.0 |8;Introduction - Problems, Solution; Variants of
 Wien Bridge - Equation Derivation with Diagram and proper naming convention for resistance - Frequency, Resistance Formulas
 
 Wagner Earthing Device - A->R1;D=0;Cs=V, B->Rw;D=0;Cs=0, Stray Capacitance - Nullify
+
+Netwon Raphson Method - Maths |100 | Formula, Importance of X0
+
+Complex Numbers
