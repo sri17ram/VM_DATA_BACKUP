@@ -8117,3 +8117,77 @@ Untracked files:
 	.python_history
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 16e7c16] 2018_12_28_19_00_01_1546003801
+ 1 file changed, 75 insertions(+)
+ VM_CONFIGS/git_push.cron.out | 75 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 75 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   100b11f..16e7c16  master -> master
+2018_12_28_19_00_10_1546003810
+***************************************************************************
+2018_12_28_20_00_01_1546007401
+.
+├── CORE
+│   ├── general.txt
+│   ├── revise.txt
+│   └── sources.txt
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── nohup.out
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── junk
+│   │   │   ├── DNAMEDIA
+│   │   │   └── wget-log
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── Other_Analysis.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+11 directories, 27 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
