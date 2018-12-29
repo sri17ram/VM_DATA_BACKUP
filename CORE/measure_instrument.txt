@@ -4,3 +4,9 @@ Source Reference|No of Points to Remember| Notes
 501|2|Resistor @ Low & High Frequency
 501|2|Bifilar Winding - Reduce Residual Inductance Effect
 501|2|Aryton Perry Winding - Reduce Residual Capacitance Effect
+501|4|Materials Used for Resistors
+501|1|Resistance Standard - Skin Effect @ High freq - Use wire with smalle diameter, Resistance value increases
+501|3|Classification of Resistance & its Standard
+501|3| Measurement of Low Resistance
+502|4| Measurement of Medium Resistance
+502,2.6|4|Measurement of High Resistance
