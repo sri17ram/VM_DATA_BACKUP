@@ -1,0 +1,6 @@
+Source Reference|No of Points to Remember| Notes
+501|4|Definition of Resistance; Zig-Zag Shape; Unit
+501|5|Properties of Resistance
+501|2|Resistor @ Low & High Frequency
+501|2|Bifilar Winding - Reduce Residual Inductance Effect
+501|2|Aryton Perry Winding - Reduce Residual Capacitance Effect
