@@ -7,6 +7,9 @@ Source Reference|No of Points to Remember| Notes
 501|4|Materials Used for Resistors
 501|1|Resistance Standard - Skin Effect @ High freq - Use wire with smalle diameter, Resistance value increases
 501|3|Classification of Resistance & its Standard
-501|3| Measurement of Low Resistance
+501,2.3|3| Measurement of Low Resistance
 502|4| Measurement of Medium Resistance
 502,2.6|4|Measurement of High Resistance
+501,2.3|Low Resistance - Voltmeter/Ammeter Method, Error of Case 1, II & Rt ?
+501,2.3|Kelvin Double Bridge - Increased Accuracy; Applications; Condition to eliminate contact resistance
+501,2.3|Poteniometer Method - Formula

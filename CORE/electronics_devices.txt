@@ -1,0 +1,1 @@
+1,1.7.1||Crystalline, Non-Crystalline, Space Lattice(regular geometric array), Unit-Cells(Unit-building-block), Single Crystal, Poly-Crystalline
