@@ -11526,3 +11526,81 @@ Untracked files:
 	.python_history
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master d6b3932] 2019_02_14_18_00_01_1550147401
+ 1 file changed, 78 insertions(+)
+ VM_CONFIGS/git_push.cron.out | 78 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 78 insertions(+)
+To https://github.com/sri17ram/VM_DATA_BACKUP.git
+   7db7ab1..d6b3932  master -> master
+2019_02_14_18_00_08_1550147408
+***************************************************************************
+2019_02_19_12_00_02_1550557802
+.
+├── CORE
+│   ├── CA.txt
+│   ├── electronics_devices.txt
+│   ├── general.txt
+│   ├── measure_instrument.txt
+│   ├── revise.txt
+│   └── sources.txt
+├── ENGLISH
+│   ├── 20180723.txt
+│   ├── 20180727.txt
+│   ├── 20180728.txt
+│   ├── 20180730.txt
+│   ├── 624oxford.txt
+│   ├── sample.txt
+│   └── sample.txt.save
+├── GENERAL
+│   └── INTERNATIONAL
+│       └── CURRENTAFFIARS
+│           └── 20180728.txt
+├── MATHS
+│   └── add.txt
+├── nohup.out
+├── NSE
+│   ├── NSEpy
+│   │   ├── All-Time  Low.ipynb
+│   │   ├── dataframes.py
+│   │   ├── junk
+│   │   │   ├── DNAMEDIA
+│   │   │   └── wget-log
+│   │   ├── nohup.out
+│   │   ├── NSE_DATA_SCIENCE.ipynb
+│   │   ├── Other_Analysis.ipynb
+│   │   ├── testPandas.py
+│   │   └── Untitled.ipynb
+│   └── test.txt
+├── QUOTES
+│   └── quotes.txt
+├── VM_CONFIGS
+│   ├── git_push.cron.out
+│   └── git_push.sh
+└── wget-log
+
+11 directories, 30 files
+warning: could not open directory '.local/share/Trash/': Permission denied
+warning: could not open directory '.local/share/jupyter/': Permission denied
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   VM_CONFIGS/git_push.cron.out
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.cache/
+	.gitconfig
+	.ipython/
+	.jupyter/
+	.mozilla/
+	.mysql_history
+	.netrc
+	.python_history
+
+no changes added to commit (use "git add" and/or "git commit -a")
